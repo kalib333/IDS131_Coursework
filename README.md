@@ -1,2 +1,3 @@
-Course work completed in MIT IDS.131, Statistics, Computation, Analytics.
-Some problem sets completed in collaboration with other classmates. Collaborators are indicated in the problem set write up.
+Course work completed in MIT IDS.131, Statistics, Computation, Analytics.  
+Some problem sets completed in collaboration with other classmates. Collaborators are indicated in the problem set write up.  
+The data sets used to complete the analysis is not included in github just the python code. Some of the datasets were too large to upload.
